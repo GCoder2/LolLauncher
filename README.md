@@ -9,7 +9,11 @@ Follow the steps below and build the foundation of your own Minecraft Launcher w
 Step 1:  
 Download Visual Studio 2019 from the official website.  
 Step 2:  
-Open the Lollaunhcer.sln file with Visual Studio 2019.  
+Download LolLauncher Source Code From  [dosya.co/w61f6bj0zi2o/Lol_Launcher_Source_Code.rar.html ] This Link. (The first two times you click the Download Button, an AD may appear. The Download Button is the blue button labeled “İndir”)
+
+Step 2,5:
+Open the Lollaunhcer.sln file with Visual Studio 2019.
+
 Step 3:  
 You're all set! You can now create your project by following the suggestions below.
 
